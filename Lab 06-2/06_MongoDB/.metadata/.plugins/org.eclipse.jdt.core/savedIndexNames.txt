@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\Jaqueline\FIAP-2019-SCJ-JavaPersistence-master\Lab 06-2\06_MongoDB\.metadata\.plugins\org.eclipse.jdt.core
